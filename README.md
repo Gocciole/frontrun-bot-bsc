@@ -8,7 +8,7 @@ A simple pancakeswap frontrun bot that purchases the specified token when liquid
 
 ### 1. The bot uses a wallet address and see phrase - this needs to be the FIRST ACCOUNT (Account0 by default) that was created by default when you installed metamask on your pc / macbook.
 
-if this is NOT configured correctly you will get an error that says "(node:45320) UnhandledPromiseRejectionWarning: Error: insufficient funds for intrinsic transaction cost"
+- if this is NOT configured correctly you will get an error that says "(node:45320) UnhandledPromiseRejectionWarning: Error: insufficient funds for intrinsic transaction cost"
 
 ### 2. Make sure you have the following assets in your MetaMask wallet **FOR THE ACCOUNT ADDRESS WITH WHICH YOU ARE USING THE BOT**
 
